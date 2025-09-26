@@ -236,8 +236,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions and support, please open an issue on GitHub or contact:
 
-- **Email**: your.email@example.com
-- **GitHub**: @yourusername
+- **Email**: krishnasingh8404@gmail.com
+- **GitHub**: @krishnasingh-28
 
 ## 🔮 Future Enhancements
 
